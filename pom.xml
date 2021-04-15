@@ -12,7 +12,7 @@
 	<groupId>com.product</groupId>
 	<artifactId>ICICISuite</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>INGSuite</name>
+	<name>ICICISuite</name>
 	<description>ICICI Suite of Products </description>
 
 	<properties>
