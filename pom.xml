@@ -13,7 +13,7 @@
 	<artifactId>ICICISuite</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>INGSuite</name>
-	<description>ING Suite of Products </description>
+	<description>ICICI Suite of Products </description>
 
 	<properties>
 		<java.version>1.8</java.version>
