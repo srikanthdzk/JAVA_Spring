@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.product</groupId>
-	<artifactId>INGSuite</artifactId>
+	<artifactId>ICICISuite</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>INGSuite</name>
 	<description>ING Suite of Products </description>
